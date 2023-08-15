@@ -1,0 +1,13 @@
+{
+  "name": "ASD.Scence",
+  "version": "1.0.0",
+  "displayName": "場景管理",
+  "description": "場景管理功能",
+  "unity": "2022.3",
+ 
+  "author": {
+    "name": "Cowback2",
+    "email": "Cowback2@gmail.com",
+    "url": ""
+  }
+}
